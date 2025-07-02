@@ -1,0 +1,7 @@
+target/
+target/classes/org/yourcompany/scoreboard/Match.class
+target/classes/org/yourcompany/scoreboard/Scoreboard.class
+target/classes/org/yourcompany/scoreboard/Team.class
+target/classes/org/yourcompany/yourproject/Sportradar.class
+target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
